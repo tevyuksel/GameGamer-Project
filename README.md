@@ -9,7 +9,7 @@
 
 ![111](https://user-images.githubusercontent.com/81384110/117567359-b1eb5280-b0c4-11eb-8877-3ede8231cad5.png)
 
-
+* OOP
 * Katmanlı Mimari
 * SOLID
 * MERNIS
